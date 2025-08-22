@@ -54,7 +54,3 @@ The script will output a table with the following columns:
 - PricePerHour
 - EstBillMonthTillDate
 - EstBillForTheMonth
-
-## License
-
-This project is licensed under the MIT License.
